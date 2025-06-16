@@ -1,2 +1,2 @@
 # Coding_Assistant
-Cursor Coding Assistant
+Cursor Like Coding Assistant
